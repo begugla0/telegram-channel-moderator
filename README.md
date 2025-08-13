@@ -82,7 +82,7 @@ pip install telethon
 Запустите скрипт командой:
 
 ```bash
-python script1.py
+python moderation.py
 ```
 
 Далее:
